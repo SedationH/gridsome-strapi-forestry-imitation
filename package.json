@@ -1,0 +1,21 @@
+{
+  "name": "gridsome-strapi-forestry-imitation",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-strapi": "^0.2.0",
+    "dayjs": "^1.10.2",
+    "gridsome": "^0.7.0",
+    "markdown-it": "^12.0.4",
+    "markdown-it-replace-link": "^1.1.0"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0",
+    "vue-svg-loader": "^0.16.0"
+  }
+}

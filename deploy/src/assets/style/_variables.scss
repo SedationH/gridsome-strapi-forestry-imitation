@@ -1,0 +1,13 @@
+body {
+  --color-base: #fff;
+  --color-base-1: #f3f3f3;
+  --color-contrast: #000;
+  --color-contrast-1: #2b2b2b;
+}
+
+body.dark {
+  --color-base: #000;
+  --color-base-1: #2b2b2b;
+  --color-contrast: #fff;
+  --color-contrast-1: #f3f3f3;
+}
